@@ -9,7 +9,7 @@ export default function About() {
             <h1 className="text-2xl">dungy | qxoez | daniel</h1>
             <p>laughing emoji</p>
             <Video
-                videoSrcURL="https://www.youtube.com/watch?v=-QbTnoDS9-0"
+                videoSrcURL="https://www.youtube.com/embed/watch?v=-QbTnoDS9-0"
                 videoTitle="Cui Tai Jing \/ 崔苔菁 - 夢摘星 (funk pop, Taiwan, 1978)"
                 />
 
