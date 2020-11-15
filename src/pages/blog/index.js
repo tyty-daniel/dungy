@@ -14,7 +14,13 @@ const IndexPage = ({
 
   return <div>
     <Layout>
+      <div className="mx-auto border border-blue-300 p-4 m-6">
+        <h1 className="text-center text-xl">confessions of a yaoi eater</h1>
+        <p>here i shall explore the many vertices of contemporary philosophy, internet culture and history! ignorance is appreciated</p>
+      </div>
+      <div className="mx-auto border border-blue-300 p-5">
       {Posts}
+      </div>
     </Layout>
     </div>
 }

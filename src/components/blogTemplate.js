@@ -1,7 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "./layout"
-import { Helmet } from "react-helmet"
 import Img from "gatsby-image"
 
 export default function Template({
@@ -12,7 +11,6 @@ export default function Template({
   let featuredImgFluid = frontmatter.featuredImage.childImageSharp.fluid
   return (
     <Layout>
-      <Helmet title={frontmatter.title} />
     <div className="blog-post-container">
       <div className="blog-post">
         <h1 className="text-2xl p-3">{frontmatter.title}</h1>

@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import { Link } from "gatsby"
+import Free from "../images/free-01.png"
 
 export default function Home() {
   return (
@@ -19,6 +20,9 @@ export default function Home() {
            </div>
            </div>
            <div className="w-1/3 px-2">
+              <img src={Free} />
+              </div>
+             <div className="w-1/3 px-2">
            <div className="bg-white border border-blue-300">
              <h2>politix</h2>
              <ul>

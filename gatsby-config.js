@@ -25,6 +25,7 @@ module.exports = {
       'gatsby-plugin-react-helmet',
       'gatsby-plugin-sharp',
       'gatsby-transformer-sharp',
+      'gatsby-plugin-netlify-cms',
       'gatsby-remark-images',
       {
         resolve: 'gatsby-plugin-mdx',
