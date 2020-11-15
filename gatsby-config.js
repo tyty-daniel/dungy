@@ -27,9 +27,7 @@ module.exports = {
       'gatsby-transformer-sharp',
       'gatsby-plugin-netlify-cms',
       'gatsby-remark-images',
-      {
-        resolve: 'gatsby-plugin-mdx',
-        options: {
+      {        options: {
           resolve: 'gatsby-remark-images',
           options: {
             maxWidth: 1000,
