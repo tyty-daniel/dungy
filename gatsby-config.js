@@ -14,19 +14,20 @@ module.exports = {
   plugins: 
     [
       'gatsby-plugin-postcss',
+      'gatsby-plugin-netlify-cms',
       {
         resolve: 'gatsby-source-filesystem',
         options: {
           name: 'markdown-pages',
-          path: `${__dirname}/src/pages/blog`,
+          path: `${__dirname}/blog`,
         },
       },
       'gatsby-transformer-remark',
       'gatsby-plugin-react-helmet',
       'gatsby-plugin-sharp',
       'gatsby-transformer-sharp',
-      'gatsby-plugin-netlify-cms',
-      'gatsby-remark-images'
+      'gatsby-remark-images',
+
 
         
       

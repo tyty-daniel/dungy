@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Layout from "layout"
+import Layout from "../components/layout"
 import Img from "gatsby-image"
 
 export default function Template({
@@ -8,14 +8,12 @@ export default function Template({
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
-  let featuredImgFluid = frontmatter.featuredImage.childImageSharp.fluid
   return (
     <Layout>
     <div className="blog-post-container">
       <div className="blog-post">
         <h1 className="text-2xl p-3">{frontmatter.title}</h1>
         <h2>{frontmatter.date}</h2>
-        <Img fluid={featuredImgFluid} style={{ maxHeight: 350}} className="m-5" />
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
@@ -34,6 +32,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         slug
         title
+
       }
     }
   }

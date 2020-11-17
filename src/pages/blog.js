@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
-import PostLink from "../../components/post-link"
-import Layout from "../../components/layout"
+import PostLink from "../components/post-link"
+import Layout from "../components/layout"
 
 const IndexPage = ({
   data: {
@@ -36,8 +36,8 @@ export const pageQuery = graphql`
           excerpt(pruneLength: 250)
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
-            slug
             title
+            slug
           }
         }
       }
