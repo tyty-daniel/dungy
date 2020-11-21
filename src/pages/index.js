@@ -16,11 +16,11 @@ export default function Home() {
         <div className="w-1/2 bg-white mx-2 p- px-2 text-blue-900 border-b border-blue-300">
           <h2 className="font-sans text-center text-xl">links</h2>
           <ul className="font-sans text-center">
-            <li>blog</li>
-            <li>startpage</li>
-            <li>rym</li>
-            <li>mal</li>
-            <li>twitter</li>
+            <Link to="/blog"><li>blog</li></Link>
+            <Link to="/startpage"><li>startpage</li></Link>
+            <a href="https://rateyourmusic.com/~dungy" target="_blank"><li>rym</li></a>
+            <a href="https://myanimelist.net/profile/dungy" target="_blank"><li>mal</li></a>
+            <a href="https://twitter.com/qxoez" target="_blank"><li>twitter</li></a>
           </ul>
         </div>
         <div className="w-1/2 bg-white mx-2 p-1 px-2 text-blue-900 border-b border-blue-300">
