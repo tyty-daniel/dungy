@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import PostLink from "../components/post-link"
 import Layout from "../components/layout"
+import SEO from "../components/seo"
 
 const IndexPage = ({
   data: {
@@ -14,8 +15,9 @@ const IndexPage = ({
 
   return <div>
     <Layout>
+      <SEO title="confessions of a yaoi sinner | blog" />
       <div className="mx-auto border border-blue-300 p-4 m-6">
-        <h1 className="text-center text-xl">confessions of a yaoi eater</h1>
+        <h1 className="text-center text-xl">confessions of a yaoi sinner</h1>
         <p>here i shall explore the many vertices of contemporary philosophy, internet culture and history! ignorance is appreciated</p>
       </div>
       <div className="mx-auto border border-blue-300 p-5">

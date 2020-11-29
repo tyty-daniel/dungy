@@ -4,10 +4,12 @@ import { Link } from "gatsby"
 import Free from "../images/free-01.png"
 import Dimitri from "../images/dimitri-02.jpg"
 import Kagami from "../images/kagami-01.jpg"
+import SEO from "../components/seo"
 
 export default function Home() {
   return (
     <Layout>
+      <SEO title="startpage" />
     <div className="p-5 mx-auto text-center">
     <h1 className="text-2xl">daniel! お茶はいかがですか</h1>
    </div>
