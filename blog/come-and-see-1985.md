@@ -5,15 +5,15 @@ title: Come and See (1985)
 ---
 ![Come and See (1985) film poster](/assets/come-and-see-poster.jpg)
 
-If my memory serves me correctly, I first saw this film on the RYM ‘top films’ charts. I took interest in it being a Belarusian film - the only one of its kind on the chart - and the rather surreal cover it had. 
+If my memory serves me correctly, I first saw this film on the [RYM ‘top films’ charts](https://rateyourmusic.com/charts/top/film/all-time/). I took interest in it being a Belarusian film - the only one of its kind on the chart - and the rather surreal cover it had. 
 
 The cover of a boy with seemingly aged eyes with a long-gone stare, a war-torn and haunted expression warped in a multi-coloured halo. I originally thought it was a sci-fi film judging by the cover, to which I was corrected seeing the genres of the film. 
 
 It was only the other day where I finally sat down and watched the film, months after torrenting it and promising to myself I’ll watch it one day, and I am still in shock and awe at the sheer masterpiece of film I watched. 
 
-The film follows a fictional account of Flyora (played by Aleksei Kravchenko), a 14-year-old teenage boy from a Belarusian village during the Nazi German occupation of Byelorussia, beginning with innocently joining the Belarusian partisans after recovering a gun from near the coast. From here begins our descent from youth, his mother demanding him to kill his family once she finds out the news - unbelieving at how his son is heading for war, knowing what's coming.
+The film follows a fictional account of Flyora (played by Aleksei Kravchenko), a 14-year-old teenage boy from a Belarusian village during the [Nazi German occupation of Byelorussia](https://www.smithsonianmag.com/history/how-1943-khatyn-massacre-became-symbol-nazi-atrocities-eastern-front-180977280/), beginning with innocently joining the Belarusian partisans after recovering a gun from near the coast. From here begins our descent from youth, his mother demanding him to kill his family once she finds out the news - unbelieving at how his son is heading for war, knowing what's coming.
 
-We soon start to see bombs exploding through fields, near-death experiences and mental strain it places upn Floyra, swaying between hysterics and near-breakdowns. 
+We soon start to see bombs exploding through fields, near-death experiences and mental strain it places upon Floyra, swaying between hysterics and near-breakdowns. 
 
 Come and See pulls absolutely zero punches with its portrayal of the horrific war crimes the Nazis committed during the occupation. From the scorched earth tactics used in villages to gunning down innocent villagers, Come and See expertly shows the inhumanity of the soldiers who find pleasure in the screams and cries of its victims. We start to see bombs exploding through fields, near-death experiences.
 
